@@ -205,6 +205,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\Styles.css" />
     <Content Include="Custom_Scripts\AddCheckBoxListener.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
